@@ -2,4 +2,6 @@ hello world
 
 demo world
 
-changes from online editor
+changes from online editor..
+
+changes for smart git app
